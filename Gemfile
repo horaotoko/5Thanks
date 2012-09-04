@@ -20,7 +20,7 @@ group :assets do
   gem 'uglifier'
 end
 
-gem 'devise'
+gem 'devise', '2.0.4'
 gem 'haml-rails'
 gem 'kaminari'
 gem 'jquery-rails'
